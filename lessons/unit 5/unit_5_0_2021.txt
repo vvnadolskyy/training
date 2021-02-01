@@ -1,0 +1,2 @@
+Локальный брокер - core-mosquitto
+Репозиторий - https://github.com/danielwelch/hassio-zigbee2mqtt
